@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8e1ff,50:e7d7ff,100:d6ecff&height=220&section=header&text=Monica%20Jaqueli&fontSize=48&fontColor=3b3b3b&animation=fadeIn&fontAlignY=38&desc=Finance%20Student%20%40%20ACC%20%7C%20Coding%20for%20Fun&descAlignY=58&descSize=18&descColor=6b6b6b" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8e1ff,50:e7d7ff,100:d6ecff&height=220&section=header&text=Monika%20Jaqueli&fontSize=48&fontColor=3b3b3b&animation=fadeIn&fontAlignY=38&desc=Finance%20Student%20%40%20ACC%20%7C%20Coding%20for%20Fun&descAlignY=58&descSize=18&descColor=6b6b6b" />
 
 <pre>
    /\_/\
@@ -15,7 +15,7 @@
 
 # About Me
 
-hello, i am **monica**
+hello, i am **Monika**
 
 i study **finance at austin community college (ACC)**
 
