@@ -73,7 +73,7 @@ learning step by step and experimenting with small projects
  / > github
 </pre>
 
-i only created a **github account because vlad told me to make one**
+i only created a **github account because vlad (@ch1kim0n1) told me to make one**
 
 so now i occasionally put my small coding experiments here
 
